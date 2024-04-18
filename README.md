@@ -6,3 +6,5 @@ This project was originally a RESTful API that searched for books on Google. I w
 ## Usage
 
 Here is the link to the deployed application:
+
+![Screenshot](./Screenshot.png)
